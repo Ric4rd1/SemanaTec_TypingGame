@@ -10,7 +10,8 @@ Exercises
 
 from random import choice, randrange
 from string import ascii_lowercase
-from turtle import *
+from turtle import clear, goto, write, update, ontimer
+from turtle import setup, hideturtle, up, tracer, listen, onkey, done
 
 from freegames import vector
 
